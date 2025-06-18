@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+footer{
+    background-color: azure;
+    color: white;
+    bottom: 0;
+    width: 100;
+}
