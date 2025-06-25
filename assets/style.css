@@ -3,8 +3,8 @@ body{
     font-family: Forum;
 }
 footer{
-    background-color: rgb(185, 226, 226);
-    color: rgb(108, 104, 104);
+    background-color: rgb(129, 149, 149);
+    color: rgb(255, 251, 251);
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -13,6 +13,6 @@ footer{
 
 footer p{
         text-align: center;
-        font-size: 0.6rem;
+        font-size: 0.8rem;
         margin-top: 0.5rem;
 }
