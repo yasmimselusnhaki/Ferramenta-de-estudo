@@ -2,6 +2,19 @@ body{
     background-color: aqua;
     font-family: Forum;
 }
+
+#container{
+    display: flex;
+}
+
+.cartao{
+    margin: 1rem 1rem;
+    background-color: rgb(178, 229, 217);
+    height: 20rem;
+    flex-grow: 1;
+    flex-basis: calc(33% - 6rem);
+}
+
 footer{
     background-color: rgb(104, 119, 119);
     color: rgb(255, 251, 251);
